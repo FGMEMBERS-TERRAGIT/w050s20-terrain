@@ -1,0 +1,4 @@
+OBJECT_BASE 2281997.btg
+OBJECT SNNU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -40.328362 -17.823228 199.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -40.327625 -17.823630 198.8 0.00
